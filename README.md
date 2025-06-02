@@ -25,7 +25,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/sinch-billava935/Carbon-Footprint-Tracker.git
+git clone (https://github.com/SwiftCoder05/Carbon-Footprint-Tracker.git)
 
 Navigate to the project folder:
 
